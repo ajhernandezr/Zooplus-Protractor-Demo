@@ -16,7 +16,7 @@
     "protractor": "protractor protractor.conf.js"
   },
   "dependencies": {
-    "expect": "^22.4.3",
+    "expect": "^30.0.2",
     "expect.js": "^0.3.1"
   }
 }
